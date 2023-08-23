@@ -11,4 +11,4 @@ DNS Records (A, AAA, AAAA, MX, SRV, SPF, etc)<br>
 DNS Hosting provider<br>
 Domain registration and expiration<br>
 Scans and lists Vulnerable ports on Servers<br>
-The data can be analyzed to find potential vulnerabilities of an application which can later be resolved quickly. The text and excel file records are great resources to study the DNS system.
+The data can be analyzed to find potential vulnerabilities of an application which can later be resolved quickly. The text and Excel file records are great resources to study the DNS system. The script can be integrated with VM for continuous monitoring of domain and custom functions on results can be set to trigger alerts.
